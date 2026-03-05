@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>스텔라이브 일러스트 시리즈</title>
+</head>
+<body>
+	<h1></h1>
+	<img src="https://drive.google.com/uc?export=view&id=1McLnH-bjuzUaDllevfRB1D8RCRSRkp_Y" alt="시라유키 히나">
+</body>
+
+</html>
